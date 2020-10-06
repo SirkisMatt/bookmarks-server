@@ -4,7 +4,7 @@ const bookmarks = [
         title: 'Google',
         url: 'http://www.google.com',
         rating: '3',
-        desc: 'Internet-related services and products'
+        descr: 'Internet-related services and products'
     }
 ]
 
